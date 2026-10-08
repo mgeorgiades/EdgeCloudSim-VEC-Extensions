@@ -1,3 +1,13 @@
+> **Update in progress**
+>
+> This repository is being prepared to host the EdgeCloudSim extensions
+> associated with our IEEE TNSM work, including SUMO-based vehicular
+> mobility, standards-aligned V2X/wireless modelling, and advanced
+> task-offloading schemes.
+>
+> The research extensions are currently being integrated and documented.
+> A paper-specific reproducibility release will be provided shortly.
+
 # EdgeCloudSim
 
 [![GitHub stars](https://img.shields.io/github/stars/CagataySonmez/EdgeCloudSim?style=for-the-badge)](https://github.com/CagataySonmez/EdgeCloudSim/stargazers)
